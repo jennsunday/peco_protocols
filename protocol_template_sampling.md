@@ -9,15 +9,15 @@ broad_scale_environmental_context: # marine biome [ENVO:00000447], marine photic
 local_environmental_context: # marine biome [ENVO:00000447], marine photic zone [ENVO:00000209]
 environmental_medium: # sea water [ENVO:00002149]
 target: deoxyribonucleic acid (DNA) [NCIT:C449]
-creator: # names separated by commas
+creator: # Jennifer Sunday, Matt Lemay, Sue Valazquez, Margot Hessing-Lewis
 materials_required: filtration [OBI:0302885]
-skills_required: sterile technique, pipetting skills, standard molecular technique, research vessel experience
-time_required: # minutes (integer)
-personnel_required: 1
+skills_required: sterile technique, intertidal field skills
+time_required: 240
+personnel_required: 2
 language: en
-issued: # YYYY-MM-DD
+issued: # 2025-11-13
 audience: scientists
-publisher: # institution
+publisher: McGill University
 hasVersion: 1
 license: CC0 1.0 Universal
 maturity level: mature
@@ -29,7 +29,7 @@ env_local_scale: # marine photic zone [ENVO:00000209]
 env_medium: # sea water [ENVO:00002149]
 habitat_natural_artificial_0_1: # 0
 samp_collect_method: # CTD rosette
-samp_collect_device: # Niskin bottle
+samp_collect_device: # Nalgene bottle
 samp_size: # 1000
 samp_size_unit: # mL
 ---
